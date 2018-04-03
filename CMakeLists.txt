@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.6)
-find_package(Rock)
+find_package(esrocos)
 esrocos_init(base 1.0)
 
 # esrocos_export_includedir(${PROJECT_SOURCE_DIR}/base ${PROJECT_NAME})
