@@ -1,4 +1,4 @@
-rock_vizkit_plugin(base-viz
+esrocos_vizkit_plugin(base-viz
     PluginLoader.cpp Uncertainty.cpp Vizkit3DHelper.cpp
     MOC 
         DistanceImageVisualization.cpp 

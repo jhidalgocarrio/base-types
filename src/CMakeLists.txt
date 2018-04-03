@@ -1,4 +1,4 @@
-rock_library(
+esrocos_library(
     base-types 
         Angle.cpp
         JointLimitRange.cpp
